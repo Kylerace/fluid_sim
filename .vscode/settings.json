@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "algorithm": "cpp",
+        "xstring": "cpp",
+        "filesystem": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "optional": "cpp",
+        "iosfwd": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "thread": "cpp",
+        "cmath": "cpp"
+    },
+    "editor.formatOnType": true,
+    "[commonlisp]": {
+        "editor.wordSeparators": "`|;:'\",()"
+    }
+}

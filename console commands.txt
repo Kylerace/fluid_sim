@@ -1,0 +1,3 @@
+g++ -o output -D GLFW_DLL -I ./dependencies/GLFW/include -I ./dependencies/glad eulerian.cpp glad.o ./dependencies/GLFW/lib-mingw-w64/libglfw3dll.a -lgdi32 -O2
+
+make sure to compile glad.c into glad.o
